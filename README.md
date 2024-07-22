@@ -10,4 +10,5 @@ git clone https://github.com/CrazyKitty357/WebServer.gd.git
 ```
 res://addons/web_server/web_server.gd
 ```
-4. profit  
+4. add the WebServerNode as a child node
+5. profit
