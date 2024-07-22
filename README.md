@@ -10,5 +10,5 @@ git clone https://github.com/CrazyKitty357/WebServer.gd.git
 ```
 res://addons/web_server/web_server.gd
 ```
-4. add the WebServerNode as a child node
+4. add the WebServerNode as a child node to the root node in your scene
 5. profit
