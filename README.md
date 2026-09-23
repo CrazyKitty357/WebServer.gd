@@ -1,5 +1,11 @@
 # WebServer.gd
 A simple godot webserver plugin that allows you to host a website or read http requests to localhost from your game/app. [video](https://i.imgur.com/ZvvmtEv.mp4)
+> [!IMPORTANT]
+> 
+> this project has been sunsetted and replaced by a newer project called [godotwebapi](https://github.com/CrazyKitty357/godotwebapi/).  
+>
+> it fixes all of the problems that plagues this project (no chromium browser support, no out-of-the-box request parsing, and no plug-and-play interface)
+
 ## How to use
 1. Download the repo via code -> download zip or do
 ```
